@@ -1,5 +1,7 @@
+import './Portfolio.css'
+
 const Portfolio = () => {
-    return ( <div>
+    return ( <div id='portfolio'>
         <h1>Portfolio</h1>
     </div> );
 }

@@ -2,10 +2,10 @@ import React from "react";
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 
 
-import About from "./Components/About";
-import Home from "./Components/Home";
+import About from "./Components/About/About";
+import Home from "./Components/Home/Home";
 import Navbar from "./Components/Navbar";
-import Portfolio from "./Components/Portfolio";
+import Portfolio from "./Components/Portfolio/Portfolio";
 
 
 function App() {
